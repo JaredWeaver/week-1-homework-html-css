@@ -30,22 +30,24 @@ THEN I find a concise, descriptive title
 
 
 ### HTML
-```
+
 - Refactored in semantic HTML elements.
 - Ensured all HTML elements follow proper structure.
 - Assigned alt attributes to every image and icon.
 - Added in a descriptive title.
 - Fixed broken "Search Engine Optimization" link.
-```
+
 
 ### CSS
-```
+
 - Combined any CSS selectors that shared the same rules.
 - Reassigned any correlating CSS tags to match the elemental changes made in HTML.
 - Labled sections of selectors and any rule adjustments worth noting.
 - Changed the background color of the aside element to meet WCAG 2 AA contrast ratio thresholds. It now matches the header's background color.
---- * Used [Accessibility Insights](https://accessibilityinsights.io/docs/en/web/overview/) chrome extension *
-```
+
+
+## Resources
+- [Accessibility Insights](https://accessibilityinsights.io/docs/en/web/overview/) - used at the end of my refactoring to ensure accessibility standards have been met.
 
 ## Screenshot 
 ![Screenshot of Horiseon webpage after refactoring](assets/images/Screenshot-Horiseon-Fixed.png)
