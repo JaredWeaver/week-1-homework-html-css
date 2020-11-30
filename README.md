@@ -28,14 +28,4 @@ THEN I find a concise, descriptive title
 
 
 
-
-
-
-
-
-
-
-
-
-
 ![alt text](assets/images/Screenshot-Horiseon-Fixed.png)
