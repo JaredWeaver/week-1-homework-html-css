@@ -44,7 +44,7 @@ THEN I find a concise, descriptive title
 - Reassigned any correlating CSS tags to match the elemental changes made in HTML.
 - Labled sections of selectors and any rule adjustments worth noting.
 - Changed the background color of the aside element to meet WCAG 2 AA contrast ratio thresholds. It now matches the header's background color.
----*Used [Accessibility Insights](https://accessibilityinsights.io/docs/en/web/overview/) chrome extension*
+--- * Used [Accessibility Insights](https://accessibilityinsights.io/docs/en/web/overview/) chrome extension *
 ```
 
 ## Screenshot 
